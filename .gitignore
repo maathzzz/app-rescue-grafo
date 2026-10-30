@@ -1,0 +1,19 @@
+# Ambiente Virtual Python
+venv/
+.venv/
+
+# Cache do Python e arquivos compilados
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos temporários gerados pela renderização do PyVis
+temp_graph.html
+
+# Configurações de IDEs (VS Code, PyCharm)
+.vscode/
+.idea/
+
+# Arquivos temporários do Sistema Operacional
+.DS_Store
+Thumbs.db
