@@ -1,0 +1,21 @@
+{
+  "nome_instancia": "Instância 1 - Didática (6 Vértices)",
+  "vertices": [
+    {"id": 0, "rotulo": "Base SAMU Central", "tipo": "base"},
+    {"id": 1, "rotulo": "Cruzamento Av. Brasil x Rua 10", "tipo": "intersecao"},
+    {"id": 2, "rotulo": "Cruzamento Rua 10 x Av. Central", "tipo": "intersecao"},
+    {"id": 3, "rotulo": "Cruzamento Av. Central x Rua B", "tipo": "intersecao"},
+    {"id": 4, "rotulo": "Hospital Central", "tipo": "hospital"},
+    {"id": 5, "rotulo": "UPA Zona Sul", "tipo": "hospital"}
+  ],
+  "arestas": [
+    {"origem": 0, "destino": 1, "tempo_min": 3.0},
+    {"origem": 1, "destino": 2, "tempo_min": 4.0},
+    {"origem": 2, "destino": 4, "tempo_min": 5.0},
+    {"origem": 0, "destino": 3, "tempo_min": 10.0},
+    {"origem": 3, "destino": 5, "tempo_min": 2.0},
+    {"origem": 1, "destino": 3, "tempo_min": 2.0},
+    {"origem": 3, "destino": 2, "tempo_min": 1.5},
+    {"origem": 2, "destino": 5, "tempo_min": 8.0}
+  ]
+}
