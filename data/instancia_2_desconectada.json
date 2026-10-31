@@ -1,0 +1,21 @@
+{
+  "nome_instancia": "Instância 2 - Fronteira e Trechos Desconectados (8 Vértices)",
+  "vertices": [
+    {"id": 0, "rotulo": "Base SAMU Norte", "tipo": "base"},
+    {"id": 1, "rotulo": "Av. Principal N1", "tipo": "intersecao"},
+    {"id": 2, "rotulo": "Av. Principal N2", "tipo": "intersecao"},
+    {"id": 3, "rotulo": "Hospital Regional", "tipo": "hospital"},
+    {"id": 4, "rotulo": "Rua das Flores (Mão Única)", "tipo": "intersecao"},
+    {"id": 5, "rotulo": "Bairro Isolado (Entrada)", "tipo": "intersecao"},
+    {"id": 6, "rotulo": "Bairro Isolado (Sem Saída)", "tipo": "intersecao"},
+    {"id": 7, "rotulo": "Base SAMU Sul (Isolada)", "tipo": "base"}
+  ],
+  "arestas": [
+    {"origem": 0, "destino": 1, "tempo_min": 2.5},
+    {"origem": 1, "destino": 2, "tempo_min": 3.0},
+    {"origem": 2, "destino": 3, "tempo_min": 4.0},
+    {"origem": 1, "destino": 4, "tempo_min": 1.5},
+    {"origem": 4, "destino": 2, "tempo_min": 6.0},
+    {"origem": 5, "destino": 6, "tempo_min": 2.0}
+  ]
+}
