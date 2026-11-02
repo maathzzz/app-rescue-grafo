@@ -9,10 +9,15 @@
 ## Identificação dos Integrantes
 
 | Nome Completo | Matrícula / R.A. | Função no Projeto |
+
 | [Matheus de Amorim Favero] | [23111800] | Estruturação de Repositório e Automação |
+
 | [Kaue Kanagusko Ruiz] | [23110392] | Modelagem de Dados JSON (Bauru-SP) |
+
 | [Gerson de Oliveira Lopes Junior] | [23110278] | Algoritmo Core e Estrutura de Grafos |
+
 | [Lucas Antonio Pires de Souza] | [23111386] | Interface Gráfica Streamlit e Renderização PyVis |
+
 | [Lucas Souza dos Santos] | [23111950] | Simulador de Tráfego e Documentação Técnica |
 
 ---
