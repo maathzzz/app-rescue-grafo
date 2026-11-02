@@ -1,7 +1,7 @@
 ## RescuEU — Sistema de Otimização e Roteamento para Emergências (SAMU Bauru-SP)
 
 **Disciplina:** Teoria dos Grafos  
-**Tema:** Caminhos Mínimos (Algoritmok: Floyd-Warshall)  
+**Tema:** Caminhos Mínimos (Algoritmo: Floyd-Warshall)  
 **Curso:** Ciência da Computação  
 
 ---
